@@ -1,0 +1,13 @@
+{
+  "name": "simple-nodejs-web-app",
+  "description": "A Simple Node.js Web app on Docker",
+  "version": "1.0.0",
+  "author": "Steve",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
